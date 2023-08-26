@@ -1,7 +1,7 @@
 # kattis_problems
 
 
-Solutions to kattis exercises found on https://open.kattis.com
+This repository is for showcasing solutions to kattis exercises found on https://open.kattis.com
 
 
 Each folder indicates what programming language the solution was created with.
