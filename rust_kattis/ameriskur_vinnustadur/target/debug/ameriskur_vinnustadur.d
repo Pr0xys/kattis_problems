@@ -1,0 +1,1 @@
+/home/seye/Documents/kattis/kattis_problems/rust_kattis/ameriskur_vinnustadur/target/debug/ameriskur_vinnustadur: /home/seye/Documents/kattis/kattis_problems/rust_kattis/ameriskur_vinnustadur/src/main.rs
